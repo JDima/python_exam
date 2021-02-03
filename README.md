@@ -3,7 +3,7 @@
 
 ```
 Names	Seq
-Marina Bulusova	Alina Tarnakina	Arkadiy Verdiev	Mariya Teryshkova	CCCACTCCTAGGAACGGTTACGTCAGCGCTGTCAGTGCCGCATTTTCACATGCTTACGAGGTAGCTCGGCGCCATCTTTCTACGTCTTTGAGATT
+Marina Bulusova	Alina Tarnakina	Arkadiy Verdiev	Mariya Teryshkova	CCCACTCCTAGGAACGGTTACGTCAGCGCTGTCAGTGCCGCATTT
 ```
 
 Считать нужно все файлы, у которых выполнены условия (для этого нужно создать менеджер контекста, который принимает на вход путь к директории и будет возвращать подходящие файлы).
